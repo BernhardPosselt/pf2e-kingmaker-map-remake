@@ -10,4 +10,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+* Stolen Lands hex map
+
+### Fixed
+
+* Ship thumbnails as well
+
+## [0.0.1] - 2023-03-02
+
+### Added
+
 * First Release
