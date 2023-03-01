@@ -1,32 +1,34 @@
 {
-    "title": "Pathfinder - Kingmaker Map Remake (Unofficial)",
-    "description": "Remade Kingmaker Maps",
-    "version": "0.0.1",
-    "url": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake",
-    "license": "LICENSE",
-    "packs": [
-        {
-            "name": "kingmaker-map-remake",
-            "label": "Kingmaker Map Remake",
-            "path": "packs/maps.db",
-            "type": "Scene",
-            "private": false,
-            "flags": {}
-        }
-    ],
-    "manifest": "https://raw.githubusercontent.com/BernhardPosselt/pf2e-kingmaker-map-remake/master/module.json",
-    "download": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake/releases/download/0.0.1/release.zip",
-    "id": "pf2e-kingmaker-map-remake",
-    "authors": [
-        {
-            "name": "Bernhard Posselt"
-        },
-        {
-            "name": "Simon"
-        }
-    ],
-    "compatibility": {
-        "minimum": "10",
-        "maximum": "10"
+  "title": "Pathfinder - Kingmaker Map Remake (Unofficial)",
+  "description": "Remade Kingmaker Maps",
+  "version": "0.0.1",
+  "url": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake",
+  "license": "LICENSE",
+  "packs": [
+    {
+      "name": "kingmaker-map-remake",
+      "label": "Kingmaker Map Remake",
+      "path": "packs/maps.db",
+      "type": "Scene",
+      "private": false,
+      "flags": {}
     }
+  ],
+  "manifest": "https://raw.githubusercontent.com/BernhardPosselt/pf2e-kingmaker-map-remake/master/module.json",
+  "download": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake/releases/download/0.0.1/release.zip",
+  "id": "pf2e-kingmaker-map-remake",
+  "authors": [
+    {
+      "name": "Bernhard Posselt",
+      "flags": {}
+    },
+    {
+      "name": "Simon",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "maximum": "10"
+  }
 }
