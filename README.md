@@ -1,6 +1,6 @@
 # Kingmaker Map Remake (Unofficial)
 
-This module ships [Simon's Kingmaker Map Remake](https://ko-fi.com/zimmonius), licensed under the OGL/CUP.
+This module ships [Simon's Kingmaker Map Remake](https://ko-fi.com/zimmonius), licensed under the OGL/CUP. The maps themselves are licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/)
 
 Uses the [Open Gaming License](./OpenGameLicense.md) and [CUP](https://paizo.com/community/communityuse)
 
