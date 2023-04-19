@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+* Chapter 8 maps
+
 ## [0.0.3] - 2023-03-26
 
 ### Added
