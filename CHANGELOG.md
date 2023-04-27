@@ -6,9 +6,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-### Added
+## [0.0.5] - 2023-04-27
+
+### Fixed
+
+* Fixed grid size in Vordakai's Tomb
 
 ## [0.0.4] - 2023-04-19
+
+### Added
 
 * Chapter 8 maps
 
