@@ -8,7 +8,6 @@
         {
             "name": "kingmaker-map-remake",
             "label": "Kingmaker Map Remake",
-            "path": "packs/maps.db",
             "type": "Scene",
             "private": false,
             "flags": {}
@@ -28,7 +27,7 @@
         }
     ],
     "compatibility": {
-        "minimum": "10",
-        "maximum": "10"
+        "minimum": "11",
+        "maximum": "11"
     }
 }
