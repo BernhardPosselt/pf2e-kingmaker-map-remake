@@ -1,7 +1,7 @@
 {
     "title": "Pathfinder - Kingmaker Map Remake (Unofficial)",
     "description": "Remade Kingmaker Maps",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "url": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake",
     "license": "LICENSE",
     "packs": [
@@ -14,7 +14,7 @@
         }
     ],
     "manifest": "https://raw.githubusercontent.com/BernhardPosselt/pf2e-kingmaker-map-remake/master/module.json",
-    "download": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake/releases/download/0.1.0/release.zip",
+    "download": "https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake/releases/download/0.1.1/release.zip",
     "id": "pf2e-kingmaker-map-remake",
     "authors": [
         {
