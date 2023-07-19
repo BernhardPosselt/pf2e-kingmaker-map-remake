@@ -8,6 +8,7 @@
         {
             "name": "kingmaker-map-remake",
             "label": "Kingmaker Map Remake",
+            "path": "packs/kingmaker-map-remake",
             "type": "Scene",
             "private": false,
             "flags": {}
