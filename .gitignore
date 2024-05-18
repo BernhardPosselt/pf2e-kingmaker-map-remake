@@ -1,4 +1,5 @@
 # Logs
+*.iml
 logs
 npm-debug.log*
 yarn-debug.log*

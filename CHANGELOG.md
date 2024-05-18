@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.0] - 2024-05-18
+
+### Added
+
+* Support for Foundry V12
+
+### Fixed
+
+* Fixed walling in Armag's Tomb
+
 ## [1.0.1] - 2023-07-19
 
 ### Fixed
