@@ -1,24 +1,3 @@
-2024/05/18-11:11:19.271318 772dd8c006c0 Recovering log #28
-2024/05/18-11:11:19.292449 772dd8c006c0 Level-0 table #30: started
-2024/05/18-11:11:19.318960 772dd8c006c0 Level-0 table #30: 898254 bytes OK
-2024/05/18-11:11:19.339836 772dd8c006c0 Delete type=0 #28
-2024/05/18-11:11:19.340707 772dd8c006c0 Delete type=3 #27
-2024/05/18-11:14:24.526977 772dd3c006c0 Level-0 table #33: started
-2024/05/18-11:14:24.536197 772dd3c006c0 Level-0 table #33: 325728 bytes OK
-2024/05/18-11:14:24.550770 772dd3c006c0 Delete type=0 #31
-2024/05/18-11:14:24.551042 772dd3c006c0 Manual compaction at level-0 from '!scenes!2z64CU1y8NXEJpim' @ 72057594037927935 : 1 .. '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 0 : 0; will stop at '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 19150 : 1
-2024/05/18-11:14:24.551052 772dd3c006c0 Compacting 2@0 + 0@1 files
-2024/05/18-11:14:24.571703 772dd3c006c0 Generated table #34@0: 10228 keys, 913326 bytes
-2024/05/18-11:14:24.571739 772dd3c006c0 Compacted 2@0 + 0@1 files => 913326 bytes
-2024/05/18-11:14:24.583991 772dd3c006c0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/18-11:14:24.584095 772dd3c006c0 Delete type=2 #30
-2024/05/18-11:14:24.584331 772dd3c006c0 Delete type=2 #33
-2024/05/18-11:14:24.626330 772dd3c006c0 Manual compaction at level-0 from '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 19150 : 1 .. '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 0 : 0; will stop at (end)
-2024/05/18-11:14:24.626384 772dd3c006c0 Manual compaction at level-1 from '!scenes!2z64CU1y8NXEJpim' @ 72057594037927935 : 1 .. '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 0 : 0; will stop at '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 19150 : 1
-2024/05/18-11:14:24.626391 772dd3c006c0 Compacting 1@1 + 1@2 files
-2024/05/18-11:14:24.647234 772dd3c006c0 Generated table #35@1: 9424 keys, 893744 bytes
-2024/05/18-11:14:24.647247 772dd3c006c0 Compacted 1@1 + 1@2 files => 893744 bytes
-2024/05/18-11:14:24.660731 772dd3c006c0 compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/18-11:14:24.660871 772dd3c006c0 Delete type=2 #26
-2024/05/18-11:14:24.661180 772dd3c006c0 Delete type=2 #34
-2024/05/18-11:14:24.661435 772dd3c006c0 Manual compaction at level-1 from '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 19150 : 1 .. '!scenes.walls!zgbSxD1mruvXA3Zr.zy9swF2ye0Mtu9bY' @ 0 : 0; will stop at (end)
+2025/04/21-12:35:03.909275 74cd597ee6c0 Recovering log #736
+2025/04/21-12:35:03.927627 74cd597ee6c0 Delete type=0 #736
+2025/04/21-12:35:03.927649 74cd597ee6c0 Delete type=3 #735
