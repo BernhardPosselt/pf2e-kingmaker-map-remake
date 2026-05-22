@@ -2,7 +2,7 @@
 
 This module ships [Simon's Kingmaker Map Remake](https://ko-fi.com/zimmonius), licensed under the OGL/CUP. The maps themselves are licensed under [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). If you want to support this project, buy Simon a coffee!
 
-Uses the [Open Gaming License](./OpenGameLicense.md) and [CUP](https://paizo.com/community/communityuse)
+Uses the [CUP](https://paizo.com/community/communityuse)
 
 > This FoundryVTT module uses trademarks and/or copyrights owned by Paizo Inc., used under Paizo's Community Use Policy (paizo.com/communityuse). We are expressly prohibited from charging you to use or access this content. This FoundryVTT module is not published, endorsed, or specifically approved by Paizo. For more information about Paizo Inc. and Paizo products, visit paizo.com.
 
@@ -24,7 +24,7 @@ Activate the module in FoundryVTT.
 
 Set the following env variables:
 
-* **FOUNDRY_KINGMAKER_MAP_REMAKE_TOKEN**: Token [from the package website](https://foundryvtt.com/packages/pf2e-return-of-the-runelords-map-remake/edit)
+* **FOUNDRY_KINGMAKER_MAP_REMAKE_TOKEN**: Token [from the package website](https://foundryvtt.com/packages/pf2e-kingmaker-map-remake/edit)
 * **GITHUB_TOKEN**: [Fine Grained Access Token](https://github.com/settings/personal-access-tokens) with permissions: **Metadata: read**, **Content: read and write**
 
 Update the version **build.gradle.kts**
