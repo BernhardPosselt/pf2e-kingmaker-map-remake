@@ -17,7 +17,6 @@ tasks.named<Zip>("foundryvttModulePackage") {
     from("assets") { into("$moduleId/assets") }
     from("packs") { into("$moduleId/packs") }
     from("LICENSE") { into("$moduleId/") }
-    from("OpenGameLicense.md") { into("$moduleId/") }
     from("README.md") { into("$moduleId/") }
     from("CHANGELOG.md") { into("$moduleId/") }
 }
