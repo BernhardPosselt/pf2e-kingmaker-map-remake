@@ -18,3 +18,17 @@ Clone this repository into your installation's module folder:
     git clone https://github.com/BernhardPosselt/pf2e-kingmaker-map-remake.git 
 
 Activate the module in FoundryVTT.
+
+
+## Release a New Version
+
+Set the following env variables:
+
+* **FOUNDRY_KINGMAKER_MAP_REMAKE_TOKEN**: Token [from the package website](https://foundryvtt.com/packages/pf2e-return-of-the-runelords-map-remake/edit)
+* **GITHUB_TOKEN**: [Fine Grained Access Token](https://github.com/settings/personal-access-tokens) with permissions: **Metadata: read**, **Content: read and write**
+
+Update the version **build.gradle.kts**
+
+Run:
+
+    ./gradlew foundryvttRelease
