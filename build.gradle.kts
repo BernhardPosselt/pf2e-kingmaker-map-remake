@@ -8,7 +8,7 @@ version = "2.1.2"
 foundryvttModule {
     githubUser = "BernhardPosselt"
     githubRepo = "pf2e-kingmaker-map-remake"
-    foundryToken = providers.environmentVariable("FOUNDRY_KINGMAKER_MAP_REMAKE_TOKEN=")
+    foundryToken = providers.environmentVariable("FOUNDRY_KINGMAKER_MAP_REMAKE_TOKEN")
     githubToken = providers.environmentVariable("GITHUB_TOKEN")
 }
 
