@@ -1,5 +1,5 @@
 plugins {
-    id("at.posselt.foundryvtt-module") version "0.0.1-SNAPSHOT"
+    id("at.posselt.foundryvtt-module") version "0.0.2"
 }
 
 group = "at.posselt"

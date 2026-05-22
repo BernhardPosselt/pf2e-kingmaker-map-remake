@@ -1,9 +1,14 @@
 rootProject.name = "pf2e-kingmaker-map-remake"
 
-// TODO: remove this later on when plugin is published
 pluginManagement {
     repositories {
+        maven {
+            url = uri("https://maven.pkg.github.com/bernhardposselt/pf2e-kingmaker-tools")
+            credentials {
+                username = "bernhardposselt"
+                password = System.getenv("GITHUB_PACKAGES_TOKEN")
+            }
+        }
         gradlePluginPortal()
-        mavenLocal()
     }
 }
